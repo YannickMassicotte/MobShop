@@ -1,0 +1,7 @@
+// Global Classes //
+
+button, button:focus {
+    // Remove Default style of buttons
+    outline: none !important;
+    box-shadow: none !important;
+}
